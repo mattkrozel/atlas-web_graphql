@@ -11,5 +11,12 @@
     "url": "atlas-web_graphql"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.9.0",
+    "react-apollo": "^3.1.5"
+  }
 }
